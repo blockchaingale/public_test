@@ -1,0 +1,1 @@
+const s=(n,l)=>{if(n===0)return 0;const a=n>10&&n<20,r=n%10===1;return!a&&r?1:!a&&n%10>=2&&n%10<=4||l<4?2:3},e=()=>({legacy:!1,fallbackLocale:"en",missingWarn:!1,fallbackWarn:!1,pluralRules:{ru:s}});export{e as default};

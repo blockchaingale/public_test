@@ -1,0 +1,1 @@
+import{o as e,a as o,e as n,N as s}from"./entry.FoPbLsSY.js";const t={class:"preloader"},_=n("span",null,null,-1),c=n("span",null,null,-1),l=n("span",null,null,-1),a=[_,c,l];function r(i,p){return e(),o("div",t,a)}const d={},h=s(d,[["render",r]]);export{h as _};
